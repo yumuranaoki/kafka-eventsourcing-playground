@@ -1,0 +1,10 @@
+POST http://localhost:8080/register
+Content-Type: application/json
+
+{
+  "id": "kneegorilla"
+}
+
+###
+
+GET http://localhost:8080/read
